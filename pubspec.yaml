@@ -38,6 +38,7 @@ dependencies:
   cupertino_text_button: ^0.0.5
   google_fonts: ^6.1.0
   dots_indicator: ^3.0.0
+  get: ^4.6.5
 
 dev_dependencies:
   flutter_test:
